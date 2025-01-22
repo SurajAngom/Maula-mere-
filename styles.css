@@ -1,0 +1,50 @@
+ /* Reset body margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7e8e4; /* Soft pink background */
+    overflow: hidden; /* Prevents scrollbars */
+}
+
+/* Container for the video */
+.video-container {
+    position: relative;
+    z-index: 1; /* Ensure video stays in front of background elements */
+}
+
+/* Video style */
+video {
+    width: 100%;
+    max-width: 800px; /* Limit the width of the video */
+    height: auto;
+    border-radius: 10px; /* Optional: rounded corners */
+}
+/* Reset body margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7e8e4; /* Soft pink background */
+    overflow: hidden; /* Prevents scrollbars */
+}
+
+/* Container for the video */
+.video-container {
+    position: relative;
+    z-index: 1; /* Ensure video stays in front of background elements */
+}
+
+/* Video style */
+video {
+    width: 100%;
+    max-width: 800px; /* Limit the width of the video */
+    height: auto;
+    border-radius: 10px; /* Optional: rounded corners */
+}
